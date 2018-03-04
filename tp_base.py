@@ -40,11 +40,7 @@ class TPBase(object):
     def write_results_to_txt(self, to_write):
         """ Write results to file .txt """
         name_file = 'results' + self.tag + self.name + '.txt'
-        if os.path.exists(name_file):
-            with open(name_file, 'r+') as f:
-                f.write(to_write)
-        else:
-            with open(name_file, 'w') as f:
-                head = ' ***** {} ***** \n'.format(name_file)
-                f.write(head + to_write)
-
+        with open(name_file, 'w') as f:
+            head = ' ***** {} ***** \n'.format(name_file)
+            f.write(head + to_write)
+        
