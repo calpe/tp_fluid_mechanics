@@ -1,6 +1,6 @@
 """
-scripts_canal.py
-==========
+tp1_canal.py
+=================
 Functions and results of TP2 : Flow in channel
 
 27/03/2018

@@ -1,7 +1,10 @@
-# tp_fluid_mechanics
-Scripts for the fluid mechanics course TPUEMec402 Universite Grenoble Alpes.
+# TP FLUID MECHANICS (TP MEC402 - UGA)
 
-Repository dedicated to share scripts and results  of the course TPUEMec402.
+Repository dedicated to share the functions and results of the course
+TP MEC402 at the Université Grenoble Alpes.
 
-## To do and participate with the students:
-jupyter-lab (students can play with the scripts and visualize interactively)
+## \#TODO:
+Complete the repository
+
+jupyter-lab (play interactively with the computer)?
+
