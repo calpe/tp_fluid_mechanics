@@ -1,10 +1,11 @@
 # TP FLUID MECHANICS (TP MEC402 - UGA)
 
-Repository dedicated to share the functions and results of the course
+Repository with interactive notebooks of the course
 TP MEC402 at the Université Grenoble Alpes.
 
-## \#TODO:
-Complete the repository
+## To get the repository type:
 
-jupyter-lab (play interactively with the computer)?
+```ruby
+git clone https://github.com/calpe/tp_fluid_mechanics.git
+```
 
