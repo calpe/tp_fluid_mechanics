@@ -19,7 +19,7 @@ from __future__ import print_function
 from math import pi
 import matplotlib.pyplot as plt
 
-from tp_base import TPBase
+from scripts.tp_base import TPBase
 
 
 class TP3Coriolis(TPBase):
