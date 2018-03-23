@@ -44,9 +44,10 @@ class TP4Soufflerie(TPBase):
         super(TP4Soufflerie, self).__init__()
         self.tag = '_tp4_'
         self.nu = 1e-6 # in m2/s
-        self.surf_disk = None # Not implemented
-        self.surf_sphere = None # Not implemented
-        self.diam_disk = None
+        self.surf_disk = 5.02e-3 # m2
+        self.surf_sphere = 2.83e-3 # m2
+        self.diam_disk = 0.08 # m
+        self.diam_sphere = 0.06 # m
         self.length_wing = None
         self.width_wing = None
         self.HAS_TO_SAVE = HAS_TO_SAVE
